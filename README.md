@@ -13,8 +13,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [TBD](TBD) | May 2023 | Python | Coming Soon |
-| TBD | Ongoing | TBD | TBD |
+| [Global Renewable Energy Usage](https://github.com/oliverkerstenDS/Portfolio/blob/main/GlobalEnergyUsage_MonthlyUsagePrediction/Notebook_GEU_MUP.ipynb) | Dec 2024 | Python | Through advanced data analytics and machine learning techniques, this project seeks to provide insights that can help policymakers, utility companies, and businesses optimize resource allocation, enhance energy efficiency, and promote the adoption of renewable energy sources. |
+| TBD | TBD | TBD | TBD |
 
 ***
 

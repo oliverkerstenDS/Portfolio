@@ -22,4 +22,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Analysis Type  | Project Description | 
 |---|---|---|---|
-| Coming Soon | December 2024 | Data Cleaning and Analysis | Coming Soon |
+| [Sales Data Analysis for Strategic Decision-Making]() | September 2024 | Exploratory Data Analysis (EDA) | EDA on a SQLite database, which contains sales records for scale model cars. The analysis aims to uncover insights from the data to inform marketing and communication strategies.
+ |

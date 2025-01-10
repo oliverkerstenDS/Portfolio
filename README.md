@@ -22,4 +22,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Analysis Type  | Project Description | 
 |---|---|---|---|
+|[Northwind SQL Database Analysis](https://github.com/oliverkerstenDS/Portfolio/blob/main/SQL_Northwind/NorthwindSQL_Analyses.ipynb) | December 2024 | Exploratory Data Analysis (EDA) | The analyses of the SQL database aim to identify key patterns and trends that can help optimize business strategies, improve productivity, and enhance customer targeting. Through detailed SQL queries and data visualization, the project provides actionable recommendations for future business decisions.|
 | [Sales Data Analysis for Strategic Decision-Making](https://github.com/oliverkerstenDS/Portfolio/blob/main/SQL_CarSalesDataAnalysis/Code.md) | September 2024 | Exploratory Data Analysis (EDA) | EDA on a SQLite database, which contains sales records for scale model cars. The analysis aims to uncover insights from the data to inform marketing and communication strategies.|
+
